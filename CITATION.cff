@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: SCARF-SSL-Microarray-Leukemia
+message: "If you use this software, please cite it."
+type: software
+
+authors:
+  - family-names: C P
+    given-names: Kavana
+
+repository-code: https://github.com/Kavana-cp-1406/SCARF-SSL-Microarray-Leukemia
+
+license: GPL-3.0
+
+version: 1.0.0
