@@ -1,0 +1,12 @@
+numpy
+pandas
+torch
+scikit-learn
+imbalanced-learn
+shap
+matplotlib
+joblib
+GEOparse
+xgboost
+scipy
+gseapy
