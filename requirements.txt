@@ -1,9 +1,12 @@
-numpy>=1.24
-pandas>=2.0
-torch>=2.2
-scikit-learn>=1.4
-imbalanced-learn>=0.12
-matplotlib>=3.8
-shap>=0.46
-GEOparse>=2.0
-joblib>=1.3
+   numpy
+   pandas
+   torch
+   scikit-learn
+   imbalanced-learn
+   shap
+   matplotlib
+   joblib
+   GEOparse
+   xgboost
+   scipy
+   gseapy
